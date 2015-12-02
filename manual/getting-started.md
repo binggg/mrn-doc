@@ -3,6 +3,8 @@ Getting Started
 
 ## Android Setup
 
+(Note: If your react-native version is 0.16+, For now can't support mrn)
+
 ### Install [mrn](http://github.com/binggg/mrn)
 
 ```bash
@@ -11,8 +13,9 @@ npm install mrn --save
 
 ### Install [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 
+
 ```bash
-npm install react-native-vector-icons --save
+npm install react-native-vector-icons@0.8.5 --save
 ```
 
 ### Setting Your Project For Using [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)

@@ -42,6 +42,24 @@ window.esdocSearchIndex = [
     "class"
   ],
   [
+    "mrn/lib/config.js~font_file",
+    "variable/index.html#static-variable-FONT_FILE",
+    "<span>FONT_FILE</span> <span class=\"search-result-import-path\">mrn/lib/config.js</span>",
+    "variable"
+  ],
+  [
+    "mrn/lib/config.js~font_name",
+    "variable/index.html#static-variable-FONT_NAME",
+    "<span>FONT_NAME</span> <span class=\"search-result-import-path\">mrn/lib/config.js</span>",
+    "variable"
+  ],
+  [
+    "mrn/lib/config.js~glyph_map",
+    "variable/index.html#static-variable-GLYPH_MAP",
+    "<span>GLYPH_MAP</span> <span class=\"search-result-import-path\">mrn/lib/config.js</span>",
+    "variable"
+  ],
+  [
     "mrn/lib/config.js~icon_name",
     "variable/index.html#static-variable-ICON_NAME",
     "<span>ICON_NAME</span> <span class=\"search-result-import-path\">mrn/lib/config.js</span>",
@@ -112,12 +130,6 @@ window.esdocSearchIndex = [
     "class/lib/Toolbar.js~Toolbar.html",
     "<span>Toolbar</span> <span class=\"search-result-import-path\">mrn/lib/Toolbar.js</span>",
     "class"
-  ],
-  [
-    "mrn/lib/icon.js~glyphmap",
-    "variable/index.html#static-variable-glyphMap",
-    "<span>glyphMap</span> <span class=\"search-result-import-path\">mrn/lib/Icon.js</span>",
-    "variable"
   ],
   [
     "builtinexternal/ecmascriptexternal.js~array",
@@ -607,13 +619,13 @@ window.esdocSearchIndex = [
   ],
   [
     "lib/radiobuttongroup.js~radiobuttongroup#value",
-    "class/lib/RadioButtonGroup.js~RadioButtonGroup.html#instance-set-value",
+    "class/lib/RadioButtonGroup.js~RadioButtonGroup.html#instance-get-value",
     "lib/RadioButtonGroup.js~RadioButtonGroup#value",
     "member"
   ],
   [
     "lib/radiobuttongroup.js~radiobuttongroup#value",
-    "class/lib/RadioButtonGroup.js~RadioButtonGroup.html#instance-get-value",
+    "class/lib/RadioButtonGroup.js~RadioButtonGroup.html#instance-set-value",
     "lib/RadioButtonGroup.js~RadioButtonGroup#value",
     "member"
   ],
